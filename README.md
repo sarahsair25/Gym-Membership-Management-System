@@ -43,7 +43,7 @@ Gym-Membership-Management-System/
 
 Clone the repository:
 
-git clone https://github.com/your-username/Gym-Membership-Management-System.git
+git clone https://github.com/sarahsair25/Gym-Membership-Management-System.git
 
 
 Navigate to the project folder:
